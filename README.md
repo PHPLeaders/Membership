@@ -12,10 +12,6 @@ This group formed after interest of being expressed on the php.net UG-ADMINS mai
 
 The membership is not restricted to UG organizers, but is open to figures in the community that have been noticed as going out of their way to promote PHP. 
 
-#### Purpose ####
-
-The purpose of the PHPLeaders group itself is to strengthen the ties among thought leaders and bring awareness to web-facing PHP community projects and initiatives. 
-
 #### Goal ####
 
 The goal of this group is to increase participation/contributions to projects and issues deemed notable by leaders which would most greatly have a positive impact on the PHP community. For example, Andreas' [php.ug](http://php.ug) website is on the list as a notable project that needs help and for users to step in. This is why you see the project forked within the PHPLeaders organization, indicating it has been earmarked for visibility.
